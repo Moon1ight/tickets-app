@@ -1,0 +1,52 @@
+[
+    {
+      "id": "1", 
+      "price": "20000", 
+      "transfersCount":"0", 
+      "from": "Владивосток", 
+      "to": "Тель-Авив",
+      "departure": "Fri Sep 08 2023 16:55:08 GMT+0700 (Новосибирск, стандартное время)",
+      "arrival": "Sun Sep 09 2023 11:40:08 GMT+0700 (Новосибирск, стандартное время)",
+      "companyLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Turkish_Airlines_logo_2019_compact.svg/1024px-Turkish_Airlines_logo_2019_compact.svg.png"
+    },
+    {
+      "id": "2", 
+      "price": "31000", 
+      "transfersCount": "2", 
+      "from": "Москва", 
+      "to": "Рим",
+      "departure": "Mon Sep 11 2023 08:00:00 GMT+0700 (Новосибирск, стандартное время)",
+      "arrival": "Tue Sep 12 2023 17:50:00 GMT+0700 (Новосибирск, стандартное время)",
+      "companyLogo": "https://i.pinimg.com/originals/a0/42/b4/a042b46113867ecb7bd2c220b2b7232a.png"
+    },
+    {
+      "id": "3", 
+      "price": "16800", 
+      "transfersCount": "2", 
+      "from": "Хабаровск", 
+      "to": "Новосибирск",
+      "departure": "Fri Sep 08 2023 14:55:08 GMT+0700 (Новосибирск, стандартное время)",
+      "arrival": "Fri Sep 08 2023 16:55:08 GMT+0700 (Новосибирск, стандартное время)",
+      "companyLogo": "https://beebom.com/wp-content/uploads/2018/12/Lufthansa-Logo.jpg"
+    },
+    {
+      "id": "4", 
+      "price": "16800", 
+      "transfersCount": "1", 
+      "from": "Хабаровск", 
+      "to": "Новосибирск",
+      "departure": "Fri Sep 08 2023 16:05:08 GMT+0700 (Новосибирск, стандартное время)",
+      "arrival": "Sun Sep 09 2023 16:55:08 GMT+0700 (Новосибирск, стандартное время)",
+      "companyLogo": "https://aeronautica.online/wp-content/uploads/2019/01/Ural-Airlines-logo.jpg"
+    },
+    {
+      "id": "5", 
+      "price": "16800", 
+      "transfersCount": "3", 
+      "from": "Хабаровск", 
+      "to": "Новосибирск",
+      "departure": "Fri Sep 08 2023 16:55:08 GMT+0700 (Новосибирск, стандартное время)",
+      "arrival": "Sun Sep 09 2023 00:15:08 GMT+0700 (Новосибирск, стандартное время)",
+      "companyLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Turkish_Airlines_logo_2019_compact.svg/1024px-Turkish_Airlines_logo_2019_compact.svg.png"
+    }
+  ]

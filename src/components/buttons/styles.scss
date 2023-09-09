@@ -1,0 +1,16 @@
+.button {
+    background: #267dff;
+    color: #fff;
+    border-radius: 5px;
+    cursor: pointer;
+    text-align: center;
+    padding: 10px;
+    box-shadow: 3px 3px 15px #9b9b9b;
+    font-size: 18px;
+    &-buy {
+        background: #ff6b26;
+        &:hover {
+            box-shadow: 3px 3px 15px #ff6b26;
+        }
+    }
+}

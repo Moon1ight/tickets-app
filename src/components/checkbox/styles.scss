@@ -1,0 +1,16 @@
+.checkbox {
+    padding: 10px 15px;
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+    &-item {
+        border: rgb(125, 179, 250);
+        width: 20px;
+        height: 20px;
+        cursor: pointer;
+        margin-right: 15px;
+    }
+    &:hover {
+        background: rgba(125, 179, 250, 0.2);
+    }
+}
